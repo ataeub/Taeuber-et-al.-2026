@@ -6,4 +6,4 @@ The structural analysis notebook does not contain any rendered code as it would 
 
 If you want to fully replicate our results and run the structural analysis code on the original data, please contact me via my [Email](mailto:alexander.taeuber@idiv.de).
 
-If you want to use this code please cite the paper, and: [![DOI](https://doi.org/10.5281/zenodo.18443104.svg)](https://doi.org/10.5281/zenodo.18443104).
+If you want to use this code please cite the paper, and: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18443104.svg)](https://doi.org/10.5281/zenodo.18443104).
