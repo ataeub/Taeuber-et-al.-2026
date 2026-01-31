@@ -1,5 +1,5 @@
 ---
-title: "Hugging trees - Structural analysis"
+title: "Täuber et al. (2026) in prep. - Structural analysis"
 author: "Alexander Täuber"
 format:
   html:

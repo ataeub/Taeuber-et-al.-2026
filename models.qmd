@@ -1,5 +1,5 @@
 ---
-title: "Hugging trees - Models"
+title: "Täuber et al. (2026) in prep. - Statistical analysis"
 author: "Alexander Täuber"
 format:
   html:
